@@ -19,14 +19,9 @@ This project implements the MH6301 group assignment on Yelp review data. It cove
 3. FAQ generation based on customer reviews for one selected business.
 4. A small NLP/IR application that detects comparison sentences in Yelp reviews.
 
-> The submitted `SourceCode` folder should contain **only our own source code**.  
-> The Yelp dataset, generated indexes, model caches, third-party libraries, and downloaded resources should **not** be included in the zip submission.
-
 ---
 
 ## 2. Folder Structure
-
-Recommended source submission structure:
 
 ```text
 Src_G07.zip
@@ -35,8 +30,9 @@ Src_G07.zip
     ├── 3.2. Dataset Analysis.ipynb
     ├── 3.3. Development of a Search Engine.ipynb
     ├── 3.4. FAQ Generation based on Reviews.ipynb
-    ├── data_loader.py
-    └── compare_detector.py
+    └── 3.5. Appplication
+        ├── data_loader.py
+        └── compare_detector.py
 ```
 
 Optional runtime folders created locally after execution:
@@ -138,9 +134,6 @@ ProjectRoot/
     ├── data_loader.py
     └── compare_detector.py
 ```
-
-Do **not** include the dataset in the final source-code zip.
-
 ---
 
 ## 6. How to Run the System
