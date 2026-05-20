@@ -24,15 +24,13 @@ This project implements the MH6301 group assignment on Yelp review data. It cove
 ## 2. Folder Structure
 
 ```text
-Src_G07.zip
-├── Readme.txt
-└── SourceCode/
-    ├── 3.2. Dataset Analysis.ipynb
-    ├── 3.3. Development of a Search Engine.ipynb
-    ├── 3.4. FAQ Generation based on Reviews.ipynb
-    └── 3.5. Appplication
-        ├── data_loader.py
-        └── compare_detector.py
+
+3.2. Dataset Analysis.ipynb
+3.3. Development of a Search Engine.ipynb
+3.4. FAQ Generation based on Reviews.ipynb
+3.5. Appplication
+     ├── data_loader.py
+     └── compare_detector.py
 ```
 
 Optional runtime folders created locally after execution:
