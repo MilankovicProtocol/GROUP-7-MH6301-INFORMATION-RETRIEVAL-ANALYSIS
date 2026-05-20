@@ -28,7 +28,7 @@ This project implements the MH6301 group assignment on Yelp review data. It cove
 3.2. Dataset Analysis.ipynb
 3.3. Development of a Search Engine.ipynb
 3.4. FAQ Generation based on Reviews.ipynb
-3.5. Appplication
+3.5. Application
      ├── data_loader.py
      └── compare_detector.py
 ```
